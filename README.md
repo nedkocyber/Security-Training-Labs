@@ -9,6 +9,7 @@ The goal of this project is to provide a safe and controlled environment where l
 # Additional Resources
 If you encounter difficulties or want to explore the fundamentals of common vulnerabilities, you can visit the PortSwigger Web Security Academy labs:
 https://portswigger.net/web-security/all-labs
+
 You can also check out my PortSwigger Labs repository for step‑by‑step explanations and easy‑to‑understand hints:
 https://github.com/nedkocyber/PortSwigger-Labs
 # Notes
