@@ -3,8 +3,11 @@ This repository contains a collection of intentionally vulnerable labs designed 
 The goal of this project is to provide a safe and controlled environment where learners can explore how different weaknesses work, understand how they are exploited, and improve their skills in identifying and mitigating security issues across various technologies — not only web applications, but also system‑level and network‑level components.
 # Purpose
 • 	To offer practical, real‑world‑inspired vulnerable scenarios
+
 • 	To help learners practice exploitation techniques in a legal and controlled environment
+
 • 	To demonstrate how misconfigurations and poor security practices can lead to compromise
+
 • 	To serve as a growing collection of CTF‑style challenges for training and experimentation
 # Additional Resources
 If you encounter difficulties or want to explore the fundamentals of common vulnerabilities, you can visit the PortSwigger Web Security Academy labs:
