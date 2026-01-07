@@ -16,12 +16,15 @@ The author takes no responsibility for misuse.
 ## 🚀 How to Start the Lab
 
 Start the environment
+
 ./start.sh
 
 Stop the environment
+
 ./stop.sh
 
 Full reset (recommended if something breaks)
+
 ./reset.sh
 
 
