@@ -21,18 +21,22 @@ The contents of each flag follow this format: Good job finding the flag! (or sim
 
 ## 🚀 How to Start the Lab
 
+!!! Unzip the CTF !!!
+```
+tar -xvf CP_exam_lab.tar.gz
+```
 Start the environment
-
+```
 ./start.sh
-
+```
 Stop the environment
-
+```
 ./stop.sh
-
+```
 Full reset (recommended if something breaks)
-
+```
 ./reset.sh
-
+```
 ---
 
 ## 🌐 Access Information
