@@ -23,7 +23,7 @@ Stop the environment
 
 Full reset (recommended if something breaks)
 ./reset.sh
----
+
 
 ## 🧩 Lab Components
 
