@@ -27,6 +27,8 @@ Full reset (recommended if something breaks)
 
 ./reset.sh
 
+---
+
 ## 🌐 Access Information
 Once the lab is running, you can access it through:
 
