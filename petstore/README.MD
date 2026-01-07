@@ -38,14 +38,4 @@ sudo apt install docker-compose -y
 ### 3️⃣ Verify Installation
 docker --version
 docker compose version
-## 🚀 How to Start the Lab
----
-Start the environment
-./start.sh
----
-Stop the environment
-./stop.sh
----
-Full reset (recommended if something breaks)
-./reset.sh
----
+
