@@ -21,6 +21,11 @@ The contents of each flag follow this format: Good job finding the flag! (or sim
 
 ## 🚀 How to Start the Lab
 
+!!! Install the CTF !!!
+```
+wget https://raw.githubusercontent.com/nedkocyber/Security-Training-Labs/main/petstore/CP_exam_lab.tar.gz
+```
+
 !!! Unzip the CTF !!!
 ```
 tar -xvf CP_exam_lab.tar.gz
