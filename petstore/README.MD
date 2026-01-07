@@ -13,6 +13,12 @@ The author takes no responsibility for misuse.
 
 ---
 
+## 🎯 Goal
+In this lab there are 3 flags in total - every next flag gets more complicated to find.
+The contents of each flag follow this format: Good job finding the flag! (or similar congratulatory message) - so when you find it, you will know!
+
+---
+
 ## 🚀 How to Start the Lab
 
 Start the environment
