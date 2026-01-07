@@ -39,15 +39,22 @@ All services are containerized and automatically configured.
 ## 🐳 Docker Requirements
 
 ### 1️⃣ Install Docker
+
 ```bash
+
 sudo apt update
 sudo apt install docker.io -y
 sudo systemctl enable docker
 sudo systemctl start docker
 ### 2️⃣ Install Docker Compose
+
 ```bash
+
 sudo apt install docker-compose -y
 ### 3️⃣ Verify Installation
+
+```bash
+
 docker --version
 docker compose version
 
