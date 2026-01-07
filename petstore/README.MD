@@ -27,7 +27,17 @@ Full reset (recommended if something breaks)
 
 ./reset.sh
 
+## 🌐 Access Information
+Once the lab is running, you can access it through:
 
+Localhost: http://127.0.0.1 or http://localhost
+
+Network Interface: Access via your machine's IP address on eth0 interface
+
+```bash
+# Find your IP address on eth0
+ip addr show eth0 | grep inet
+```
 ## 🧩 Lab Components
 
 - Vulnerable PHP Web Application
