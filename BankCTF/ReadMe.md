@@ -27,6 +27,14 @@ There are **10+ vulnerabilities** waiting to be discovered.
 ```bash
 wget https://raw.githubusercontent.com/nedkocyber/Security-Training-Labs/main/petstore/bank_ctf_backup_20260414_095239.tar.gz
 ```
+Or if not working just download it as zip.
+
+After that unzip the file with
+
+```
+tar -xzvf bank_ctf_backup_20260414_095239.tar.gz
+```
+Next navigate to the direcotry BankCTF and start the start.sh script
 
 ## 🐳 Docker Requirements
 
