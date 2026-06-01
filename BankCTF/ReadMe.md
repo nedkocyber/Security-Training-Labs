@@ -25,7 +25,7 @@ There are **10+ vulnerabilities** waiting to be discovered.
 ### !!! Install the CTF !!!
 
 ```bash
-wget https://raw.githubusercontent.com/nedkocyber/Security-Training-Labs/main/petstore/CP_exam_lab.tar.gz
+wget https://raw.githubusercontent.com/nedkocyber/Security-Training-Labs/main/petstore/bank_ctf_backup_20260414_095239.tar.gz
 ```
 
 ## 🐳 Docker Requirements
