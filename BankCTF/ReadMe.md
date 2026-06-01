@@ -1,1 +1,30 @@
-е
+# MegaBank CTF
+
+This project is an intentionally vulnerable banking system created for educational purposes, exams, and CTF competitions.
+
+## ⚠️ Disclaimer
+
+This lab contains intentional security vulnerabilities.  
+It must be used **ONLY** in a local or isolated environment for learning, testing, or CTF practice.
+
+## 🎯 Goal
+
+Find as many vulnerabilities as possible and try to achieve **Remote Code Execution (RCE)**.  
+There are **10+ vulnerabilities** waiting to be discovered.
+
+## 🧩 Lab Components
+
+- Vulnerable PHP web application with three distinct user roles
+- MySQL database
+- phpMyAdmin (for database management)
+- FTP server
+- All services containerized with Docker & Docker Compose
+
+## 🚀 How to Start the Lab
+
+### !!! Install the CTF !!!
+
+```bash
+wget https://raw.githubusercontent.com/nedkocyber/Security-Training-Labs/main/petstore/CP_exam_lab.tar.gz
+```
+
