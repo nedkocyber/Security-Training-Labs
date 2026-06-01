@@ -34,7 +34,18 @@ After that unzip the file with
 ```
 tar -xzvf bank_ctf_backup_20260414_095239.tar.gz
 ```
-Next navigate to the direcotry BankCTF and start the start.sh script
+Start the environment
+```
+./start.sh
+```
+Stop the environment
+```
+./stop.sh
+```
+Full reset (recommended if something breaks)
+```
+./reset.sh
+```
 
 ## 🐳 Docker Requirements
 
