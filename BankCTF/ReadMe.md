@@ -33,6 +33,7 @@ After that unzip the file with
 
 ```
 tar -xzvf bank_ctf_backup_20260414_095239.tar.gz
+cd BankCTF
 ```
 Start the environment
 ```
